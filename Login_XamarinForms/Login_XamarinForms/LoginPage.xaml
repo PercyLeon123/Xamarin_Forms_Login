@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Login_XamarinForms.LoginPage">
+
+    <ContentPage.Content>
+        <Grid>
+            <Image Source="FondoLuna.jpg" Aspect="AspectFill"/>
+            <BoxView Color="#BFBFBF" Opacity="0.3" />
+
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="auto"/>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="auto"/>
+                </Grid.RowDefinitions>
+
+                <Image Grid.Row="0" Source="EntelLogo.png" WidthRequest="120" Margin="0, 90, 0, 40" />
+
+                <StackLayout Grid.Row="1" Padding="30, 20">
+                    <StackLayout>
+                        <Entry Placeholder="Correo electrónico" />
+                        <Entry Placeholder="Contraseña" IsPassword="True"/>
+                        <Button Text="Iniciar Sesión" BackgroundColor="#206FB1" BorderRadius="20" TextColor="#fff" FontSize="25" Margin="15,0,0,0" FontAttributes="Bold"/>
+
+                        <StackLayout Orientation="Horizontal">
+                            <Label Text="¿ Recuperar Contraseña ?"/>
+                            <Label Text="Registrarse" HorizontalOptions="EndAndExpand"/>
+                        </StackLayout>
+                        
+                    </StackLayout>
+
+                </StackLayout>
+
+                <StackLayout Grid.Row="2" HorizontalOptions="Center" Margin="0, 0, 0, 50">
+                    <Label Text="Iniciar sessión con"  HorizontalOptions="Center"/>
+                    <StackLayout  Orientation="Horizontal">
+                        <Image Grid.Row="0" Source="Icono.png" WidthRequest="70" />
+                        <Image Grid.Row="0" Source="Icono.png" WidthRequest="70" />
+                        <Image Grid.Row="0" Source="Icono.png" WidthRequest="70" />
+                    </StackLayout>
+
+                </StackLayout>
+            </Grid>
+
+        </Grid>
+    </ContentPage.Content>
+
+</ContentPage>

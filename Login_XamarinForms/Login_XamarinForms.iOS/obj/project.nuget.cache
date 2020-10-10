@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "eGXCYURAPejfY0VUSVZH7J41tz9E75bT2oowY1pVNndHQP8LDsJwZG2ZQ+e6AzAm52eOMZnjS3XKLNZ01zPbdQ==",
+  "success": true,
+  "projectFilePath": "C:\\Aplicaciones\\xamarin\\Login_XamarinForms\\Login_XamarinForms\\Login_XamarinForms.iOS\\Login_XamarinForms.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.6.0.1141\\xamarin.forms.4.6.0.1141.nupkg.sha512"
+  ],
+  "logs": []
+}

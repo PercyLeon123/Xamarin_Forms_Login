@@ -1,0 +1,15 @@
+C:\Aplicaciones\xamarin\Login_XamarinForms\Login_XamarinForms\Login_XamarinForms\bin\Debug\netstandard2.0\Login_XamarinForms.deps.json
+C:\Aplicaciones\xamarin\Login_XamarinForms\Login_XamarinForms\Login_XamarinForms\bin\Debug\netstandard2.0\Login_XamarinForms.dll
+C:\Aplicaciones\xamarin\Login_XamarinForms\Login_XamarinForms\Login_XamarinForms\bin\Debug\netstandard2.0\ref\Login_XamarinForms.dll
+C:\Aplicaciones\xamarin\Login_XamarinForms\Login_XamarinForms\Login_XamarinForms\bin\Debug\netstandard2.0\Login_XamarinForms.pdb
+C:\Aplicaciones\xamarin\Login_XamarinForms\Login_XamarinForms\Login_XamarinForms\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Aplicaciones\xamarin\Login_XamarinForms\Login_XamarinForms\Login_XamarinForms\obj\Debug\netstandard2.0\LoginPage.xaml.g.cs
+C:\Aplicaciones\xamarin\Login_XamarinForms\Login_XamarinForms\Login_XamarinForms\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Aplicaciones\xamarin\Login_XamarinForms\Login_XamarinForms\Login_XamarinForms\obj\Debug\netstandard2.0\Login_XamarinForms.AssemblyInfoInputs.cache
+C:\Aplicaciones\xamarin\Login_XamarinForms\Login_XamarinForms\Login_XamarinForms\obj\Debug\netstandard2.0\Login_XamarinForms.AssemblyInfo.cs
+C:\Aplicaciones\xamarin\Login_XamarinForms\Login_XamarinForms\Login_XamarinForms\obj\Debug\netstandard2.0\Login_XamarinForms.csproj.CoreCompileInputs.cache
+C:\Aplicaciones\xamarin\Login_XamarinForms\Login_XamarinForms\Login_XamarinForms\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Aplicaciones\xamarin\Login_XamarinForms\Login_XamarinForms\Login_XamarinForms\obj\Debug\netstandard2.0\Login_XamarinForms.dll
+C:\Aplicaciones\xamarin\Login_XamarinForms\Login_XamarinForms\Login_XamarinForms\obj\Debug\netstandard2.0\ref\Login_XamarinForms.dll
+C:\Aplicaciones\xamarin\Login_XamarinForms\Login_XamarinForms\Login_XamarinForms\obj\Debug\netstandard2.0\Login_XamarinForms.pdb
+C:\Aplicaciones\xamarin\Login_XamarinForms\Login_XamarinForms\Login_XamarinForms\obj\Debug\netstandard2.0\Login_XamarinForms.csprojAssemblyReference.cache
